@@ -1,4 +1,4 @@
-### Hi there. I'm Uditanshu 👋
+<h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
 
 <!--
 **udit22022000/udit22022000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
+-  🎓 Information Technology Student at Haldia Institute of Technology.
+- :zap: My area of interestes are: Algorithms and Data Structures, Cloud Computing, and Web development. 
+- 🌱 I’m addicted to learning and growing every day.
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@ping2udit)
   - :office: [LinkedIn](https://www.linkedin.com/in/uditanshu-kumar-611606149/)
+- Competitive Coding Profile
+  - :[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/udit022000)
  
   
   
