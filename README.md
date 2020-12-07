@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -  🎓 Information Technology Student at Haldia Institute of Technology.
-- :zap: My area of interestes are: Algorithms and Data Structures, Cloud Computing, and Web development. 
+- :zap: My area of interestes are: Data Structures, Algorithms, Cloud Computing, and Web development. 
 - 🌱 I’m addicted to learning and growing every day.
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
@@ -37,9 +37,10 @@ Here are some ideas to get you started:
   
   <hr>
 
-### Check out my latest articles 
+<h4 align="left"> Check out my latest articles  <br/> </h4> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0" alt="Recent Article 0">
+
+&nbsp;&nbsp;<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0" alt="Recent Article 0">
 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/1" alt="Recent Article 1">
