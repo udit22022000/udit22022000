@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   - :bulb: [Medium articles](https://medium.com/@ping2udit)
   - :office: [LinkedIn](https://www.linkedin.com/in/uditanshu-kumar-611606149/)
 - Competitive Coding Profile
-  - :[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/udit022000)
+  - [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/udit022000)
  
-  
+  <hr>
   
   [![Uditanshu's github stats](https://github-readme-stats.vercel.app/api?username=udit22022000&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/udit22022000/github-readme-stats)
   
