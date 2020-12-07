@@ -30,8 +30,12 @@ Here are some ideas to get you started:
   [![Uditanshu's github stats](https://github-readme-stats.vercel.app/api?username=udit22022000&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/udit22022000/github-readme-stats)
   
   
+  <hr>
+  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udit22022000)](https://github.com/udit22022000/github-readme-stats)
+  
+  <hr>
 
 ### Check out my latest articles 
 
