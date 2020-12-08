@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
   <hr>
   
-  [![Uditanshu's github stats](https://github-readme-stats.vercel.app/api?username=udit22022000&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/udit22022000/github-readme-stats)
+  [![Uditanshu's github stats](https://github-readme-stats.vercel.app/api?username=udit22022000&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/udit22022000/github-readme-stats)
   
   
   <hr>
