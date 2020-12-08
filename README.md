@@ -36,15 +36,3 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udit22022000)](https://github.com/udit22022000/github-readme-stats)
   
   <hr>
-
-<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check out my latest articles  <br/> </h4> 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/0" alt="Recent Article 0">
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/1" alt="Recent Article 1">
-  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ping2udit/2" alt="Recent Article 2">
-  
